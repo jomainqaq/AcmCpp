@@ -33,4 +33,5 @@ int main()
         cout << b[q] << endl;
     }
     return 0;
+    //what the fuck
 }
